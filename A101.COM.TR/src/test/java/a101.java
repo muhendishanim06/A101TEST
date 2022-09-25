@@ -15,7 +15,7 @@ public class a101 {
         String email="aybuke7837@hotmail.com";
         String Value_="";
         String Color="";
-        String adresshedar="Kuzeykent";
+        String adresshedar="Kastamonu";
         String name_="Aybuke";
         String surname_="Ozdemır";
         String phone_="5411416278";
